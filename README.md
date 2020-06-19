@@ -1,3 +1,11 @@
+# Initial Upload of staruml-sqlserver
+
+THIS REPOSITORY SHOULD BE CONSIDERED ALPHA CODE. I have been able to create a data model and generate code that generated tables, columns, indexes and foreign-key constraints FOR ONE CASE OR EXAMPLE. 
+
+Please contact me with any issues or suggestions you come across.
+
+This repository is based on https://github.com/adrianandrei-ca/staruml-postgresql by adrianandrei-ca. Thanks for the inspiration.
+
 # SQLServer DDL Extension for StarUML 3
 
 This extension for [StarUML](http://staruml.io) support to generate DDL (Data Definition Language) from Microsoft SQL Server. Install this extension from Extension Manager of StarUML.
