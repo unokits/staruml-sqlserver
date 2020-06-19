@@ -1,0 +1,18 @@
+{
+    "name": "unokits.staruml-sqlserver",
+    "title": "SQLServer Code Generator",
+    "description": "Generate SQLServer DDL from ERD",
+    "homepage": "https://github.com/unokits/staruml-sqlserver",
+    "issues": "https://github.com/unokits/staruml-sqlserver/issues",
+    "keywords": ["ddl", "erd", "database", "sqlserver"],
+    "version": "0.1.0",
+    "author": {
+        "name": "Jeff Jolley",
+        "email": "jjolley@unokits.io",
+        "url": "https://github.com/unokits"
+    },
+    "license": "MIT",
+    "engines": {
+        "staruml": ">=3.0.0"
+    }
+}

@@ -1,0 +1,18 @@
+{
+  "menu": [
+    {
+      "id": "tools",
+      "submenu": [
+        {
+          "label": "SQLServer DDL",
+          "id": "tools.mssqlddl",
+          "submenu": [
+            { "label": "Generate DDL files", "id": "tools.mssqlddl.generate", "command": "mssqlddl:generate" },
+            { "type": "separator" },
+            { "label": "Configure...", "id": "tools.mssqlddl.configure", "command": "mssqlddl:configure" }
+          ]
+        }
+      ]
+    }
+  ]
+}
